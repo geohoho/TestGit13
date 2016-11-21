@@ -1,0 +1,28 @@
+Hello from Coder Camps!
+
+이번엔 꼭 잘 해 보자
+
+열기 목록에 "cmd" 하면 옛날 창 뜬다 
+
+notepad test.txt
+
+git status
+
+git init
+
+git add
+
+git commit
+
+git push
+
+
+
+git add .  (요렇게 하면 모든 걸 add 해라)
+
+git commit -m "Added test.txt"    (-m:dash message) (commit는 한꺼번에 하면 안되고 필요한것만)
+
+
+
+github.com 가면 나의 계정이 있다 (id:geohoho, 비번은 codercamp와 동일,나의 일곱자리)
+
