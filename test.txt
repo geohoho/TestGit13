@@ -1,3 +1,19 @@
+
+Source Control that are Popular:
+
+Git,  Team Foundation Server, Mercurial, Subversion, Visual Source Safe, Vault
+
+
+GitHub
+
+git-scm.com (dowload 하세요)
+
+
+
+
+
+
+
 Hello from Coder Camps!
 
 이번엔 꼭 잘 해 보자
@@ -26,3 +42,5 @@ git commit -m "Added test.txt"    (-m:dash message) (commit는 한꺼번에 하면 안되
 
 github.com 가면 나의 계정이 있다 (id:geohoho, 비번은 codercamp와 동일,나의 일곱자리)
 
+
+--> 들어가서 repository 목록에서 찾아보면 push 명령줄이 있으니 복사해서 cmd 창 가서 붙어넣고 enter
